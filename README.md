@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotika-dev.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on #100daysofcode challenge.
+- 🌟 Love to explore and learn more.
 - 📫 How to reach me- www.linkedin.com/in/jyotika-kishor
 
 <!---
