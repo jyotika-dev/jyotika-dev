@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jyotika-dev.
-- 🌱 I’m currently learning web development.
 - 🌟 Love to explore and learn more.
 - 📫 How to reach me- www.linkedin.com/in/jyotika-kishor
 
