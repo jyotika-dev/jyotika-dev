@@ -8,7 +8,7 @@
 
 ## Connect with Me
 
-<a href="www.linkedin.com/in/jyotika-kishor"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="24"></a> 
+[LinkedIn](www.linkedin.com/in/jyotika-kishor)
 
 <br>
 
