@@ -24,4 +24,4 @@
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:**  Python, Flask, Node.js, Express.js
 * **Databases:** MongoDB, SQL
-* **Other:** Git, GitHub, VS Code, REST APIs, WebSockets
+* **Other:** Git, GitHub, VS Code, REST APIs, WebSockets, Gsap, Three.js
