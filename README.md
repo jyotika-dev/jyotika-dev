@@ -1,10 +1,6 @@
-# 👋 Hi, I'm @jyotika-dev! 
+# 👋 Hi, I'm Jyotika! 
 
-[Banner image goes here]
-
-[Profile picture goes here]
-
-🌟 Love to explore and learn more about web development and AI. I'm currently focused on improving my skills in React and Node.js.
+🌟 The dynamic nature of the tech world excites me. I thrive on learning new tools and technologies and applying them to solve real-world problems.
 
 ## Connect with me 
 
@@ -16,7 +12,7 @@
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotika-dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotika-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
