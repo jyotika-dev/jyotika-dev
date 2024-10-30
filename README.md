@@ -2,6 +2,9 @@
 
 🌟 Love to explore and learn more about web development and AI. I'm currently focused on improving my skills in React and Node.js.
 
+## Words to Live By
+> "Strive for progress, not perfection."
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotika-kishor)
@@ -14,6 +17,11 @@
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotika-dev&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jyotika-dev&theme=onedark)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jyotika-dev.jyotika-dev)
+
 
 ## Skills
 
