@@ -4,7 +4,7 @@
 
 ## Connect with Me
 
-<a href="www.linkedin.com/in/jyotika-kishor" style="display: inline-block; font-weight: bold; color: white; text-decoration: none; font-size: 18px; background-color: #0077b5; padding: 8px 16px; border-radius: 5px; transition: background-color 0.3s ease;">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotika-kishor)
 
 ## Languages and Tools 
 
