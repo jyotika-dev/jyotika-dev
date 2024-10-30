@@ -18,9 +18,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotika-dev&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotika-dev&theme=onedark)
+`![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotika-dev&theme=onedark)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jyotika-dev.jyotika-dev)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jyotika-dev.jyotika-dev)`
 
 
 
