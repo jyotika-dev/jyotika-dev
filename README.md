@@ -3,7 +3,7 @@
 🎯 **Aspiring Cybersecurity Engineer | Security+ Candidate | SOC Analyst Trainee**  
 
 I’m passionate about defending digital systems, analyzing threats, and building strong cyber defense strategies.  
-Currently preparing for **CompTIA Security+ (SY0-701)** with an 800+ target score and sharpening my **hands-on SOC and blue-team skills**.  
+Currently preparing for **CompTIA Security+ (SY0-701)** and sharpening my **hands-on SOC and blue-team skills**.  
 
 ---
 
