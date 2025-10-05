@@ -34,7 +34,7 @@ Certified **CompTIA Security+ (SY0-701)** professional, currently focusing on sh
 ---
 
 ## 📚 Certifications & Learning
-- **CompTIA Security+ (SY0-701)** → *Candidate, Exam Scheduled Soon*  
+- **CompTIA Security+ (SY0-701)** → *Issued: 05 Oct, 2025*  
 - Ongoing: Hands-on SOC labs via TryHackMe & LetsDefend  
 - Exploring AI Red-Teaming via **HackAPrompt 2.0**  
 
