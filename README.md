@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Jyotika Kishor  
 
-🎯 **Aspiring Cybersecurity Engineer | Security+ Candidate | SOC Analyst Trainee**  
+🎯 **Aspiring Cybersecurity Engineer | ComptTIA Security+ Certified | SOC Analyst Trainee**  
 
 I’m passionate about defending digital systems, analyzing threats, and building strong cyber defense strategies.  
-Currently preparing for **CompTIA Security+ (SY0-701)** and sharpening my **hands-on SOC and blue-team skills**.  
+Certified **CompTIA Security+ (SY0-701)** professional, currently focusing on sharpening my **hands-on SOC and blue-team skills**.  
 
 ---
 
