@@ -36,21 +36,14 @@ Certified **CompTIA Security+ (SY0-701)** professional, currently focusing on sh
 ## 📚 Certifications & Learning
 - **CompTIA Security+ (SY0-701)** → *Issued: 05 Oct, 2025*  
 - Ongoing: Hands-on SOC labs via TryHackMe & LetsDefend  
-- Exploring AI Red-Teaming via **HackAPrompt 2.0**  
+- Explored AI Red-Teaming via **HackAPrompt 2.0**  
 
----
-
-## 📂 Featured Projects & Labs
-- 🔎 **SOC Investigation Walkthroughs** → (upload soon on GitHub)  
-- 📑 **Security+ Notes & Flashcards** → Revision resources for SY0-701  
-- 🛡️ **Threat Detection Labs** → from TryHackMe & LetsDefend  
-- 🤖 **HackAPrompt Challenges** → Exploring AI Red-Teaming  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐙 [GitHub](https://github.com/your-link)  
+- 💼 [LinkedIn](https://linkedin.com/in/jyotika-kishor)  
+- 🐙 [GitHub](https://github.com/jyotika-dev)  
 - ✉️ Reach me: jkishor1802@gmail.com  
 
 ---
